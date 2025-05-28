@@ -1,7 +1,6 @@
-# FluxNet Speed Tester 🚀
+x# FluxNet Speed Tester 🚀
 
 ![FluxNet Speed Tester Screenshot](assets/screenshot.png)
-*(Replace this with an actual screenshot of your app! A GIF showing the real-time update would be even better.)*
 
 A pretty desktop application built with Python and Tkinter to test your internet download speed, upload speed, and ping. It features a modern dark theme and real-time speed updates during testing.
 
